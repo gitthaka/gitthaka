@@ -10,13 +10,13 @@ I am a passionate full-stack developer dedicated to building scalable web applic
 
 I leverage a mix of modern technologies, frameworks, and design tools to build robust applications from the ground up:
 
-| **Domain**     | **Languages & Frameworks**                               | **Databases & Infrastructure** |
-| :------------- | :------------------------------------------------------- | :----------------------------- |
-| **Web**        | HTML, CSS, JavaScript (ES6+), TypeScript, React, Next.js | –                              |
-| **API**        | Next.js                                                  | PostgreSQL, Sqlite             |
-| **DevOps**     | –                                                        | Linux Servers, Vercel          |
-| **Design**     | Figma                                                    | –                              |
-| **AI & Tools** | ChatGPT, Copilot                                         | –                              |
+| **Domain**     | **Languages & Frameworks**                               | **Databases & Infrastructure**         |
+| :------------- | :------------------------------------------------------- | :------------------------------------- |
+| **Web**        | HTML, CSS, JavaScript (ES6+), TypeScript, React, Next.js | SQLite, IndexedDB,Local/SessionStorage |
+| **API**        | Next.js                                                  | PostgreSQL, Sqlite                     |
+| **DevOps**     | –                                                        | Linux Servers, Vercel                  |
+| **Design**     | Figma                                                    | –                                      |
+| **AI & Tools** | ChatGPT, Copilot                                         | –                                      |
 
 ## Interests & Ongoing Learning
 
