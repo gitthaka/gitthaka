@@ -13,7 +13,7 @@ I leverage a mix of modern technologies, frameworks, and design tools to build r
 | **Domain**     | **Languages & Frameworks**                               | **Databases & Infrastructure**         |
 | :------------- | :------------------------------------------------------- | :------------------------------------- |
 | **Web**        | HTML, CSS, JavaScript (ES6+), TypeScript, React, Next.js | SQLite, IndexedDB,Local/SessionStorage |
-| **API**        | Next.js                                                  | PostgreSQL, Sqlite                     |
+| **API**        | Next.js                                                  | PostgreSQL, SQLite                     |
 | **DevOps**     | –                                                        | Linux Servers, Vercel                  |
 | **Design**     | Figma                                                    | –                                      |
 | **AI & Tools** | ChatGPT, Copilot                                         | –                                      |
