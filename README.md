@@ -11,7 +11,7 @@ I am a passionate full-stack developer dedicated to building scalable web applic
 I leverage a mix of modern technologies, frameworks, and design tools to build robust applications from the ground up:
 
 | **Domain**        | **Languages & Frameworks**                               | **Databases & Infrastructure** |
-| ----------------- | -------------------------------------------------------- | ------------------------------ |
+| :---------------- | :------------------------------------------------------- | :----------------------------- |
 | **Web**           | HTML, CSS, JavaScript (ES6+), TypeScript, React, Next.js | –                              |
 | **API / Backend** | Node.js, Express.js, RESTful APIs, GraphQL, Prisma ORM   | PostgreSQL, Redis, Supabase    |
 | **DevOps**        | –                                                        | Linux Servers, Vercel          |
